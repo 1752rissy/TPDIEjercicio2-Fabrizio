@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IABM.cs" />
+    <Compile Include="IABM2.cs" />
+    <Compile Include="Llave.cs" />
+    <Compile Include="operacionesABM.cs" />
+    <Compile Include="operacionesBusqueda.cs" />
+    <Compile Include="Operador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
