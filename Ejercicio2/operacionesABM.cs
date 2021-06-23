@@ -27,7 +27,7 @@ namespace Ejercicio2
 
         public string Eliminando()
         {
-            return _operacionesABM.Eliminar()
+            return _operacionesABM.Eliminar();
         }
     }
 }
