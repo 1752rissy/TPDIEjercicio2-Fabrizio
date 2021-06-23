@@ -19,15 +19,15 @@ namespace Ejercicio2
             operacionesBusqueda operacionesbusqueda = new operacionesBusqueda(llave);
             operacionesBusqueda operacionesbusqueda1 = new operacionesBusqueda(vehiculo);
             operacionesBusqueda operacionesbusqueda2 = new operacionesBusqueda(operador);
-            operacionesabm.Insertando();
-            operacionesabm1.Modificando();
-            operacionesabm2.Eliminando();
-            operacionesbusqueda.Buscando();
-            operacionesbusqueda.Obteniendo();
-            operacionesbusqueda2.obteniendoUltimo();
+            Console.WriteLine(operacionesabm.Insertando());
+            Console.WriteLine(operacionesabm1.Modificando());
+            Console.WriteLine(operacionesabm2.Eliminando());
+            Console.WriteLine(operacionesbusqueda.Buscando());
+            Console.WriteLine(operacionesbusqueda.Obteniendo());
+            Console.WriteLine(operacionesbusqueda2.obteniendoUltimo());
 
-            
 
+            Console.ReadLine();
 
         }
     }

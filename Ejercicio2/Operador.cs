@@ -16,32 +16,32 @@ namespace Ejercicio2
 
         public string Buscar()
         {
-            return "buscando...";
+            return "buscando operador...";
         }
 
         public string Eliminar()
         {
-            return "Eliminar...";
+            return "Eliminando operador...";
         }
 
         public string Insertar()
         {
-            return "Insertando...";
+            return "Insertando operador...";
         }
 
         public string Modificar()
         {
-            return "Modificando...";
+            return "Modificando operador...";
         }
 
         public string Obtener()
         {
-            return "Obteniendo...";
+            return "Obteniendo operador...";
         }
 
         public string obtenerUltimo()
         {
-            return "Obteniendo el ultimo...";
+            return "Obteniendo el ultimo operador...";
         }
     }
 }

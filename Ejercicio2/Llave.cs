@@ -12,32 +12,32 @@ namespace Ejercicio2
 
         public string Buscar()
         {
-            return "buscando...";
+            return "buscando llave...";
         }
 
         public string Eliminar()
         {
-            return "Eliminar...";
+            return "Eliminando llave...";
         }
 
         public string Insertar()
         {
-            return "Insertando...";
+            return "Insertando llave...";
         }
 
         public string Modificar()
         {
-            return "Modificando...";
+            return "Modificando llave...";
         }
 
         public string Obtener()
         {
-            return "Obteniendo...";
+            return "Obteniendo llave...";
         }
 
         public string obtenerUltimo()
         {
-            return "Obteniendo el ultimo...";
+            return "Obteniendo el ultimo llave...";
         }
     }
 }

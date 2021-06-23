@@ -14,32 +14,32 @@ namespace Ejercicio2
 
         public string Buscar()
         {
-            return "buscando...";
+            return "buscando vehiculo...";
         }
 
         public string Eliminar()
         {
-            return "Eliminar...";
+            return "Eliminando vehiculo...";
         }
 
         public string Insertar()
         {
-            return "Insertando...";
+            return "Insertando vehiculo...";
         }
 
         public string Modificar()
         {
-            return "Modificando...";
+            return "Modificando vehiculo...";
         }
 
         public string Obtener()
         {
-            return "Obteniendo...";
+            return "Obteniendo vehiculo...";
         }
 
         public string obtenerUltimo()
         {
-            return "Obteniendo el ultimo...";
+            return "Obteniendo el ultimo vehiculo...";
         }
     }
 }
